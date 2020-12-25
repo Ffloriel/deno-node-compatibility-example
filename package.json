@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "deno run --unstable --allow-read --allow-env --import-map import_map.json main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.16",
+    "change-case": "^4.1.2"
+  }
+}

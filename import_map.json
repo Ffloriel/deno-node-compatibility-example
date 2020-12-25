@@ -1,0 +1,19 @@
+{
+  "imports": {
+    "camel-case": "./node_modules/camel-case/dist/index.d.ts",
+    "capital-case": "./node_modules/capital-case/dist/index.d.ts",
+    "change-case": "./node_modules/change-case/dist/index.d.ts",
+    "constant-case": "./node_modules/constant-case/dist/index.d.ts",
+    "dot-case": "./node_modules/dot-case/dist/index.d.ts",
+    "events": "./node_modules/@types/node/events.d.ts",
+    "header-case": "./node_modules/header-case/dist/index.d.ts",
+    "lower-case": "./node_modules/lower-case/dist/index.d.ts",
+    "no-case": "./node_modules/no-case/dist/index.d.ts",
+    "param-case": "./node_modules/param-case/dist/index.d.ts",
+    "pascal-case": "./node_modules/pascal-case/dist/index.d.ts",
+    "path-case": "./node_modules/path-case/dist/index.d.ts",
+    "sentence-case": "./node_modules/sentence-case/dist/index.d.ts",
+    "snake-case": "./node_modules/snake-case/dist/index.d.ts",
+    "upper-case": "./node_modules/upper-case/dist/index.d.ts"
+  }
+}
